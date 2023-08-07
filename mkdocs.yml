@@ -1,5 +1,8 @@
 site_name: HDK Installation Documentation
-# site_url: https://example.com/
+
+site_url: https://stoorm5.gitlab.io
+site_dir: public
+
 nav:
     - Home: ./pages/index.md
     - Map: ./pages/map.md
