@@ -1,0 +1,81 @@
+{
+	"DdsStatesUpdatingInterval_ms": 10000,
+	"LinksStatesUpdatingInterval_ms": 10000,
+	"AliveUpdateInterval_ms": 5550,
+	"AliveCheckInterval_ms": 8550,
+	"ExpectedLinksAliasL": {
+		"TOWER-link": "TWR"
+	},
+	"HostSenderId": "fgtwy.TWR",
+	"DdsConfigSectionId": "DDS",
+	"AlcmsLinksL": [
+		{
+			"LinkName": "fgtwy.CAB00",
+			"LinkAlias": null,
+			"Addr": "192.168.10.1",
+			"Port": 11001,
+			"IsUdp": false,
+			"IsUsed": true,
+			"MoreConfigInfo": "",
+			"LinkUsage": 6,
+			"Priority": 10,
+			"IsRedundantMaster": true,
+			"RedundantMateName": "fgtwy.TWR",
+			"RxBuffSizeMultiple": -1,
+			"ExclusiveMateOf": "",
+			"Notes": ""
+		},
+		{
+			"LinkName": "fgtwy.TWR",
+			"LinkAlias": null,
+			"Addr": "192.168.10.2",
+			"Port": 11002,
+			"IsUdp": false,
+			"IsUsed": true,
+			"MoreConfigInfo": "",
+			"LinkUsage": 6,
+			"Priority": 5,
+			"IsRedundantMaster": false,
+			"RedundantMateName": "fgtwy.CAB00",
+			"RxBuffSizeMultiple": -1,
+			"ExclusiveMateOf": "",
+			"Notes": ""
+		},
+		{
+			"LinkName": "bridge.CAB00",
+			"LinkAlias": "Bridge_M",
+			"Addr": "192.168.10.1",
+			"Port": 8851,
+			"IsUdp": false,
+			"IsUsed": false,
+			"MoreConfigInfo": "",
+			"LinkUsage": 2,
+			"Priority": 0,
+			"IsRedundantMaster": false,
+			"RedundantMateName": "",
+			"RxBuffSizeMultiple": -1,
+			"ExclusiveMateOf": "fgtwy.CAB00",
+			"Notes": ""
+		},
+		{
+			"LinkName": "bridge.TWR",
+			"LinkAlias": "Bridge_S",
+			"Addr": "192.168.10.2",
+			"Port": 8852,
+			"IsUdp": false,
+			"IsUsed": true,
+			"MoreConfigInfo": "",
+			"LinkUsage": 2,
+			"Priority": 0,
+			"IsRedundantMaster": false,
+			"RedundantMateName": "",
+			"RxBuffSizeMultiple": -1,
+			"ExclusiveMateOf": "fgtwy.TWR",
+			"Notes": ""
+		}
+	],
+	"LocalIPCPipePublisherName": "",
+	"LocalIPCPipeReceiverName": "DDS_LP_COMMANDS_RECEIVER",
+	"LocalIPCPipePublisherPeriodicUpdateEnabled": true,
+	"Notes": ""
+}

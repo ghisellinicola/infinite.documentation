@@ -1,0 +1,437 @@
+{
+	"Sender": "OCEM_Gateway_M",
+	"Partition": "OCEM",
+	"Domain": 10,
+	"DiscoveryWaitingTime": 2000,
+	"Topics": [
+		{
+			"Name": "OCEM_Reachability",
+			"Entity": "REACHABILITY",
+			"Role": "ReadWrite",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 10
+				},
+				"Ownership": {
+					"OwnershipKind": 0
+				},
+				"DataAvailability": {
+					"DurabilityKind": 3,
+					"HistoryKind": 0,
+					"HistoryDepth": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_Reachability_Publisher&Subscriber"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_AuditLogs",
+			"Entity": "LOG",
+			"Role": "Write",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 1
+				},
+				"Ownership": {
+					"OwnershipKind": 0
+				},
+				"DataAvailability": {
+					"DurabilityKind": 1,
+					"HistoryKind": 1
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_AuditLogs_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_CommandCcr",
+			"Entity": "CCR",
+			"Interface": "FIELD",
+			"Role": "Read",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Ownership": {
+					"OwnershipKind": 0
+				},
+				"DataAvailability": {
+					"DurabilityKind": 0
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_CommandCcr_Subscriber"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_StatusCcr",
+			"Entity": "CCR",
+			"Interface": "FIELD",
+			"Role": "Write",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Liveliness": {
+					"LeaseDuration": {
+						"NanoSec": 0,
+						"Sec": 5
+					}
+				},
+				"Ownership": {
+					"OwnershipKind": 1,
+					"Strenght": 10
+				},
+				"DataAvailability": {
+					"DurabilityKind": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_StatusCcr_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_CommandEcb",
+			"Entity": "ECB",
+			"Interface": "FIELD",
+			"Role": "Read",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Ownership": {
+					"OwnershipKind": 0
+				},
+				"DataAvailability": {
+					"DurabilityKind": 0
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_CommandEcb_Subscriber"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_StatusEcb",
+			"Entity": "ECB",
+			"Interface": "FIELD",
+			"Role": "Write",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Ownership": {
+					"OwnershipKind": 1,
+					"Strenght": 10
+				},
+				"DataAvailability": {
+					"DurabilityKind": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_StatusEcb_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_CommandStopBar",
+			"Entity": "STOP_BAR",
+			"Interface": "FIELD",
+			"Role": "Read",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Ownership": {
+					"OwnershipKind": 0
+				},
+				"DataAvailability": {
+					"DurabilityKind": 0
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_CommandStopBar_Subscriber"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_StatusStopBar",
+			"Entity": "STOP_BAR",
+			"Interface": "FIELD",
+			"Role": "Write",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Ownership": {
+					"OwnershipKind": 1,
+					"Strenght": 10
+				},
+				"DataAvailability": {
+					"DurabilityKind": 1,
+					"HistoryKind": 0,
+					"HistoryDepth": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_StatusStopBar_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_CommandFlash",
+			"Entity": "FLASH",
+			"Interface": "FIELD",
+			"Role": "Read",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Ownership": {
+					"OwnershipKind": 0
+				},
+				"DataAvailability": {
+					"DurabilityKind": 0
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_CommandFlash_Subscriber"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_StatusFlash",
+			"Entity": "FLASH",
+			"Interface": "FIELD",
+			"Role": "Write",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Ownership": {
+					"OwnershipKind": 1,
+					"Strenght": 10
+				},
+				"DataAvailability": {
+					"DurabilityKind": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_StatusFlash_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_CommandIO",
+			"Entity": "IO",
+			"Interface": "FIELD",
+			"Role": "Read",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Ownership": {
+					"OwnershipKind": 0
+				},
+				"DataAvailability": {
+					"DurabilityKind": 0
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_CommandIO_Subscriber"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_StatusIO",
+			"Entity": "IO",
+			"Interface": "FIELD",
+			"Role": "Write",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Liveliness": {
+					"LeaseDuration": {
+						"NanoSec": 0,
+						"Sec": 5
+					},
+					"LivelinessKind": 0
+				},
+				"Ownership": {
+					"OwnershipKind": 1,
+					"Strenght": 10
+				},
+				"DataAvailability": {
+					"DurabilityKind": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_StatusIO_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_StatusSensor",
+			"Entity": "SENSOR",
+			"Interface": "FIELD",
+			"Role": "Write",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Ownership": {
+					"OwnershipKind": 1,
+					"Strenght": 10
+				},
+				"DataAvailability": {
+					"DurabilityKind": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_StatusSensor_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_StatusAux",
+			"Entity": "AUX",
+			"Interface": "FIELD",
+			"Role": "Write",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"Ownership": {
+					"OwnershipKind": 1,
+					"Strenght": 10
+				},
+				"DataAvailability": {
+					"DurabilityKind": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Gateway_StatusAux_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_Conf_Generic",
+			"Entity": "GENERIC_CONF",
+			"Role": "Read",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"DataAvailability": {
+					"DurabilityKind": 3,
+					"HistoryKind": 1,
+					"HistoryDepth": 15
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Backend_GenericConfiguration_Subscriber"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_Conf_StopBars",
+			"Entity": "STOPBAR_CONF",
+			"Role": "Read",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"DataAvailability": {
+					"DurabilityKind": 3,
+					"HistoryKind": 0,
+					"HistoryDepth": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Backend_StopBarsConfiguration_Publisher&Subscriber"
+				}
+			}
+		}
+	]
+}

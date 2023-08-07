@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg546" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1638.92 360.51">
+  <g id="OUTLINE">
+    <g id="LWPOLYLINE">
+      <polygon id="polygon11" points="346.77 272.86 381.36 272.86 386.36 267.86 386.36 209.25 381.36 204.25 145.37 204.25 100.35 254.25 15.36 254.25 10.36 249.25 10.36 159.25 15.36 154.25 1493.57 154.25 1538.57 104.25 1623.57 104.25 1628.57 109.25 1628.57 199.25 1623.57 204.25 638.85 204.25 633.85 209.25 633.85 292.96 638.85 297.96 646.35 297.96 651.35 302.96 651.35 333.15 646.35 338.15 606.47 338.15 601.47 333.15 601.47 317.96 596.47 312.96 546.35 312.96 541.35 317.96 541.35 333.15 536.35 338.15 346.77 338.15 341.77 333.15 341.77 277.86 346.77 272.86" style="fill: #999; stroke: gray; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-2">
+      <polygon id="polygon14" points="613.85 297.96 618.85 292.96 618.85 209.25 613.85 204.25 546.35 204.25 541.35 209.25 541.35 292.96 546.35 297.96 613.85 297.96" style="fill: #2c3e5a; stroke: gray; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-3">
+      <polygon id="polygon17" points="421.36 209.25 421.36 267.86 426.36 272.86 501.36 272.86 506.36 267.86 506.36 209.25 501.36 204.25 426.36 204.25 421.36 209.25" style="fill: #2c3e5a; stroke: gray; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-4">
+      <rect id="rect20" x="678.55" y="308.15" width="8" height="30" style="fill: none; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-5">
+      <polyline id="polyline23" points="674.55 308.15 678.55 308.15 678.55 300.15 670.55 300.15 670.55 304.15" style="fill: none; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-6">
+      <rect id="rect26" x="678.55" y="300.15" width="8" height="8" style="fill: none; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-7">
+      <polyline id="polyline29" points="694.55 304.15 694.55 300.15 686.55 300.15 686.55 308.15 690.55 308.15" style="fill: none; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LINE">
+      <line id="line32" x1="670.55" y1="304.15" x2="674.55" y2="308.15" style="fill: none; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LINE-2">
+      <line id="line35" x1="694.55" y1="304.15" x2="690.55" y2="308.15" style="fill: none; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-8">
+      <rect id="rect38" x="681.55" y="292.15" width="2" height="8" style="fill: none; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="HATCH">
+      <path id="path41" d="m683.55,292.15h-2v8h2v-8m-5,8h-8v4l4,4h4v-8m8,0h-8v8h8v-8m8,4v-4h-8v8h4l4-4m-8,4h-8v30h8v-30Z" style="fill-rule: evenodd;"/>
+    </g>
+    <g id="LWPOLYLINE-9">
+      <polygon id="polygon44" points="398.77 248.56 395.36 248.56 402.36 228.56 405.36 228.56 412.36 248.56 408.96 248.56 407.27 243.56 400.46 243.56 398.77 248.56" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-10">
+      <polygon id="polygon47" points="406.05 240.37 401.65 240.37 403.86 233.95 406.05 240.37" style="fill: #999; stroke: gray; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-11">
+      <path id="path50" d="m517.05,248.56v-20h7.8c1.5,0,3,.6,4,1.7,2.2,2.2,2.2,5.8,0,8,1.2,1.1,1.9,2.7,1.9,4.4,0,3.3-2.7,5.9-6,5.9h-7.7Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-12">
+      <path id="path53" d="m524.85,236.65c1.4,0,2.5-1.1,2.5-2.4,0-1.4-1.1-2.4-2.5-2.4h-4.6v4.9h4.6v-.1Z" style="fill: #999; stroke: gray; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-13">
+      <path id="path56" d="m524.77,245.37c1.5,0,2.8-1.2,2.8-2.8,0-1.5-1.2-2.8-2.8-2.8h-4.5v5.5h4.5v.1Z" style="fill: #999; stroke: gray; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-14">
+      <path id="path59" d="m1468.07,168.56c-2.2,1.3-2.9,4.2-1.6,6.4.4.7,1,1.2,1.6,1.6,3.2,1.8,7.2,1.8,10.5,0,2.2-1.3,2.9-4.2,1.6-6.4-.4-.7-1-1.2-1.6-1.6-3.3-1.8-7.2-1.8-10.5,0Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-15">
+      <path id="path62" d="m1469.27,170.65c-1.1.6-1.4,2-.8,3.1.2.3.4.6.8.8,2.5,1.4,5.5,1.4,8,0,1.1-.6,1.4-2,.8-3.1-.2-.3-.4-.6-.8-.8-2.4-1.4-5.5-1.4-8,0Z" style="fill: #999; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-16">
+      <path id="path65" d="m1477.07,180.95c-1.5-.4-3.2,0-4.2,1.2-.8-.7-1.9-1.1-3-.9-2.5.4-4.3,2.7-3.9,5.2.2,1.7,1.4,3.1,3,3.7l.8-2.3c-.7-.3-1.3-.9-1.4-1.7-.2-1.2.6-2.3,1.8-2.5h.2c.8,0,1.5.7,1.5,1.5v.8h2.3v-.9c0-.2,0-.3.1-.5.3-1,1.2-1.5,2.2-1.3,1,.3,1.7,1,2,1.9.4,1.5-.4,3.1-1.9,3.5l.5,2.4c2.8-.7,4.5-3.6,3.8-6.4-.7-1.8-2-3.2-3.8-3.7Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-17">
+      <path id="path68" d="m158.06,187.45v-10.3h.8c3.7,0,6.9,2.5,7.5,6.2.3,1.1,1.5,1.7,2.6,1.4.3-.1.6-.3.8-.5,1.1-1.2,1-3-.1-4.1-.3-.3-.6-.5-1-.6l.5-2.4c.8.2,1.6.7,2.2,1.3,2.1,2,2.2,5.4.1,7.5-.7.6-1.5,1-2.4,1.2-2.5.4-4.8-1.2-5.2-3.7-.5-1.8-1.8-3.2-3.5-3.7v7.7h-2.3Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-18">
+      <path id="path71" d="m173.06,173.56v-2c-.7-.3-1.1-1-1.1-1.7h-1.9v1.3h-12v2.4h15Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE_00000062906808652399001470000012570313001940221862_-4" data-name="LWPOLYLINE 00000062906808652399001470000012570313001940221862 -4">
+      <path id="path130-7" d="m1611.07,22.05c-.8-1.4-2.6-1.8-4-1-.4.2-.7.6-1,1-1.8,3.2-1.8,7.2,0,10.5.8,1.4,2.6,1.8,4,1,.4-.2.7-.6,1-1,1.8-3.3,1.8-7.2,0-10.5Z" style="fill: #1e2c43; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+  <g id="KO">
+    <g id="SEGMENT_ABN_KO" data-name="SEGMENT ABN KO">
+      <g id="LWPOLYLINE-19">
+        <path id="path175" d="m712.35,276.96l-8.2,3.2v7.5l8.2,3.2c.5.2,1.1-.1,1.3-.6,0-.1.1-.2.1-.4v-12c0-.6-.4-1-1-1-.2,0-.3,0-.4.1h0Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-20">
+        <path id="path178" d="m695.97,276.96l8.2,3.2v7.5l-8.2,3.2c-.1,0-.2.1-.4.1-.6,0-1-.4-1-1v-12.1c0-.1,0-.2.1-.4.2-.5.8-.7,1.3-.5h0Z" style="fill: #fff;"/>
+      </g>
+    </g>
+    <g id="SEGMENT_WDI_KO" data-name="SEGMENT WDI KO">
+      <g id="LWPOLYLINE-21">
+        <polyline id="polyline75" points="801.02 298.15 801.02 313.15 808.91 311.96 808.91 299.36 801.02 298.15" style="fill: #fff;"/>
+      </g>
+      <g id="LWPOLYLINE-22">
+        <polyline id="polyline78" points="808.91 299.36 818.3 300.75 818.3 310.55 808.91 311.96 808.91 299.36" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-23">
+        <polyline id="polyline81" points="818.3 300.75 826.3 301.96 826.3 309.46 818.3 310.55 818.3 300.75" style="fill: #fff;"/>
+      </g>
+    </g>
+    <g id="SEGMENT_FLOOD_KO" data-name="SEGMENT FLOOD KO">
+      <g id="LWPOLYLINE-24">
+        <polygon id="polygon134" points="354.77 356.36 361.27 360.15 367.77 356.36 367.77 348.86 361.27 345.15 354.77 348.86 354.77 356.36" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-25">
+        <polygon id="polygon137" points="514.77 356.36 521.27 360.15 527.77 356.36 527.77 348.86 521.27 345.15 514.77 348.86 514.77 356.36" style="fill: #f274d6;"/>
+      </g>
+    </g>
+    <g id="SEGMENT_APAPI_12_KO" data-name="SEGMENT APAPI 12 KO">
+      <g id="LWPOLYLINE-29">
+        <rect id="rect85" x="445.36" y="119.06" width="7.5" height="18.2" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-30">
+        <rect id="rect88" x="445.36" y="100.87" width="7.5" height="18.2" style="fill: #fff;"/>
+      </g>
+    </g>
+    <g id="SEGMENT_APAPI_30_KO" data-name="SEGMENT APAPI 30 KO">
+      <g id="LWPOLYLINE-31">
+        <rect id="rect92" x="1186.07" y="223.26" width="7.5" height="18.2" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-32">
+        <rect id="rect95" x="1186.07" y="241.47" width="7.5" height="18.2" style="fill: #fff;"/>
+      </g>
+    </g>
+    <g id="SEGMENT_TWY_KO" data-name="SEGMENT TWY KO">
+      <g id="LWPOLYLINE-45">
+        <rect id="rect141" x="359.36" y="240" width="20" height="10" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-46">
+        <rect id="rect144" x="428.36" y="240" width="20" height="10" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-47">
+        <rect id="rect147" x="548.35" y="240" width="20" height="10" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-48">
+        <rect id="rect150" x="479.36" y="240" width="20" height="10" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-49">
+        <rect id="rect153" x="336.36" y="218" width="10" height="20" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-50">
+        <rect id="rect156" x="451.36" y="218" width="10" height="20" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-51">
+        <rect id="rect159" x="581.35" y="218" width="10" height="20" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-52">
+        <rect id="rect162" x="466.36" y="218" width="10" height="20" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-53">
+        <rect id="rect165" x="351.56" y="256.61" width="20" height="10" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-54">
+        <rect id="rect168" x="453.86" y="256.61" width="20" height="10" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-55">
+        <rect id="rect171" x="548.35" y="273.71" width="10" height="20" style="fill: #f274d6;"/>
+      </g>
+    </g>
+    <g id="SEGMENT_END_1_KO" data-name="SEGMENT END 1 KO">
+      <g id="CIRCLE">
+        <circle id="circle182" cx="5.31" cy="233.56" r="5" style="fill: #f274d6;"/>
+      </g>
+      <g id="CIRCLE-2">
+        <circle id="circle185" cx="52.82" cy="259.27" r="5" style="fill: #f274d6;"/>
+      </g>
+      <g id="CIRCLE-3">
+        <circle id="circle188" cx="126.52" cy="232.67" r="5" style="fill: #f274d6;"/>
+      </g>
+      <g id="CIRCLE-4">
+        <circle id="circle191" cx="1633.52" cy="125.06" r="5" style="fill: #f274d6;"/>
+      </g>
+      <g id="CIRCLE-5">
+        <circle id="circle194" cx="1586.02" cy="99.27" r="5" style="fill: #f274d6;"/>
+      </g>
+      <g id="CIRCLE-6">
+        <circle id="circle197" cx="1512.32" cy="125.96" r="5" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-58">
+        <path id="path200" d="m147.81,155.76v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-59">
+        <path id="path203" d="m147.81,155.76v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-60">
+        <path id="path206" d="m147.81,180.47v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-61">
+        <path id="path209" d="m147.81,180.47v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-62">
+        <path id="path212" d="m5.32,168.17v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-63">
+        <path id="path215" d="m5.32,168.17v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-64">
+        <path id="path218" d="m5.32,192.76v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-65">
+        <path id="path221" d="m5.32,192.76v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-66">
+        <path id="path224" d="m1633.52,155.76v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-67">
+        <path id="path227" d="m1633.52,155.76v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-68">
+        <path id="path230" d="m1633.52,180.47v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-69">
+        <path id="path233" d="m1633.52,180.47v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-70">
+        <path id="path236" d="m1491.02,168.17v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-71">
+        <path id="path239" d="m1491.02,168.17v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-72">
+        <path id="path242" d="m1491.02,192.76v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-73">
+        <path id="path245" d="m1491.02,192.76v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+    </g>
+    <g id="SEGMENT_END_2_KO" data-name="SEGMENT END 2 KO">
+      <g id="CIRCLE-7">
+        <circle id="circle249" cx="5.31" cy="259.27" r="5" style="fill: #f274d6;"/>
+      </g>
+      <g id="CIRCLE-8">
+        <circle id="circle252" cx="100.31" cy="259.27" r="5" style="fill: #f274d6;"/>
+      </g>
+      <g id="CIRCLE-9">
+        <circle id="circle255" cx="1633.52" cy="99.27" r="5" style="fill: #f274d6;"/>
+      </g>
+      <g id="CIRCLE-10">
+        <circle id="circle258" cx="1538.52" cy="99.27" r="5" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-74">
+        <path id="path261" d="m147.81,168.17v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-75">
+        <path id="path264" d="m147.81,168.17v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-76">
+        <path id="path267" d="m147.81,192.76v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-77">
+        <path id="path270" d="m147.81,192.76v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-78">
+        <path id="path273" d="m5.32,155.76v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-79">
+        <path id="path276" d="m5.32,155.76v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-80">
+        <path id="path279" d="m5.32,180.47v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-81">
+        <path id="path282" d="m5.32,180.47v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-82">
+        <path id="path285" d="m1633.52,168.17v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-83">
+        <path id="path288" d="m1633.52,168.17v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-84">
+        <path id="path291" d="m1633.52,192.76v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-85">
+        <path id="path294" d="m1633.52,192.76v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-86">
+        <path id="path297" d="m1491.02,155.76v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-87">
+        <path id="path300" d="m1491.02,155.76v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-88">
+        <path id="path303" d="m1491.02,180.47v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-89">
+        <path id="path306" d="m1491.02,180.47v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+    </g>
+    <g id="SEGMENT_RE_1_KO" data-name="SEGMENT RE 1 KO">
+      <g id="LWPOLYLINE-90">
+        <path id="path310" d="m147.81,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-91">
+        <path id="path313" d="m147.81,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-92">
+        <path id="path316" d="m147.81,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-93">
+        <path id="path319" d="m147.81,217.17v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-94">
+        <path id="path322" d="m297.02,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-95">
+        <path id="path325" d="m297.02,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-96">
+        <path id="path328" d="m446.21,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-97">
+        <path id="path331" d="m446.21,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-98">
+        <path id="path334" d="m595.41,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-99">
+        <path id="path337" d="m595.41,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-100">
+        <path id="path340" d="m744.72,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-101">
+        <path id="path343" d="m744.72,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-102">
+        <path id="path346" d="m893.91,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-103">
+        <path id="path349" d="m893.91,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-104">
+        <path id="path352" d="m1043.11,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-105">
+        <path id="path355" d="m1043.11,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-106">
+        <path id="path358" d="m1192.32,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-107">
+        <path id="path361" d="m1192.32,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-108">
+        <path id="path364" d="m1341.52,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-109">
+        <path id="path367" d="m1341.52,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-110">
+        <path id="path370" d="m1490.82,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-111">
+        <path id="path373" d="m1490.82,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-112">
+        <path id="path376" d="m147.81,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-113">
+        <path id="path379" d="m147.81,217.17v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-114">
+        <path id="path382" d="m297.02,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-115">
+        <path id="path385" d="m297.02,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-116">
+        <path id="path388" d="m446.21,217.17v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-117">
+        <path id="path391" d="m446.21,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-118">
+        <path id="path394" d="m595.41,217.17v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-119">
+        <path id="path397" d="m595.41,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-120">
+        <path id="path400" d="m744.72,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-121">
+        <path id="path403" d="m744.72,217.17v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-122">
+        <path id="path406" d="m893.91,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-123">
+        <path id="path409" d="m893.91,217.17v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-124">
+        <path id="path412" d="m1043.11,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-125">
+        <path id="path415" d="m1043.11,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-126">
+        <path id="path418" d="m1192.32,217.17v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-127">
+        <path id="path421" d="m1192.32,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-128">
+        <path id="path424" d="m1341.52,217.17v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-129">
+        <path id="path427" d="m1341.52,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-130">
+        <path id="path430" d="m1490.82,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: silver;"/>
+      </g>
+      <g id="LWPOLYLINE-131">
+        <path id="path433" d="m1490.82,217.17v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+    </g>
+    <g id="SEGMENT_RE_2_KO" data-name="SEGMENT RE 2 KO">
+      <g id="LWPOLYLINE-132">
+        <path id="path437" d="m222.42,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-133">
+        <path id="path440" d="m222.42,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-134">
+        <path id="path443" d="m371.61,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-135">
+        <path id="path446" d="m371.61,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-136">
+        <path id="path449" d="m520.81,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-137">
+        <path id="path452" d="m520.81,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-138">
+        <path id="path455" d="m670.02,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-139">
+        <path id="path458" d="m670.02,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-140">
+        <path id="path461" d="m819.31,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-141">
+        <path id="path464" d="m819.31,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-142">
+        <path id="path467" d="m968.52,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-143">
+        <path id="path470" d="m968.52,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-144">
+        <path id="path473" d="m1117.71,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-145">
+        <path id="path476" d="m1117.71,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-146">
+        <path id="path479" d="m1266.92,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-147">
+        <path id="path482" d="m1266.92,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-148">
+        <path id="path485" d="m1416.21,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-149">
+        <path id="path488" d="m1416.21,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-150">
+        <path id="path491" d="m222.42,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-151">
+        <path id="path494" d="m222.42,217.17v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-152">
+        <path id="path497" d="m371.61,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-153">
+        <path id="path500" d="m371.61,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-154">
+        <path id="path503" d="m520.81,217.17v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-155">
+        <path id="path506" d="m520.81,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-156">
+        <path id="path509" d="m670.02,217.17v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-157">
+        <path id="path512" d="m670.02,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-158">
+        <path id="path515" d="m819.31,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-159">
+        <path id="path518" d="m819.31,217.17v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-160">
+        <path id="path521" d="m968.52,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-161">
+        <path id="path524" d="m968.52,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-162">
+        <path id="path527" d="m1117.71,217.17v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-163">
+        <path id="path530" d="m1117.71,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-164">
+        <path id="path533" d="m1266.92,217.17v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-165">
+        <path id="path536" d="m1266.92,217.17v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-166">
+        <path id="path539" d="m1416.21,217.17v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #f274d6;"/>
+      </g>
+      <g id="LWPOLYLINE-167">
+        <path id="path542" d="m1416.21,217.17v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #f274d6;"/>
+      </g>
+    </g>
+  </g>
+  <g id="SEGMENT_WDI" data-name="SEGMENT WDI">
+    <g id="LWPOLYLINE-26">
+      <polyline id="polyline75-2" points="801.05 298.15 801.05 313.15 808.97 311.96 808.97 299.36 801.05 298.15" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-27">
+      <polyline id="polyline78-2" points="808.97 299.36 818.35 300.75 818.35 310.55 808.97 311.96 808.97 299.36" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-28">
+      <polyline id="polyline81-2" points="818.35 300.75 826.35 301.96 826.35 309.46 818.35 310.55 818.35 300.75" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+  <g id="SEGMENT_APAPI_12" data-name="SEGMENT APAPI 12">
+    <g id="LWPOLYLINE-29-2">
+      <rect id="rect85-2" x="445.36" y="118.06" width="7.5" height="18.2" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-30-2">
+      <rect id="rect88-2" x="445.36" y="99.85" width="7.5" height="18.2" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+  <g id="SEGMENT_APAPI_30" data-name="SEGMENT APAPI 30">
+    <g id="LWPOLYLINE-31-2">
+      <rect id="rect92-2" x="1186.07" y="222.25" width="7.5" height="18.2" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-32-2">
+      <rect id="rect95-2" x="1186.07" y="240.45" width="7.5" height="18.2" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+  <g id="SEGMENT_Head_12" data-name="SEGMENT Head 12">
+    <g id="LWPOLYLINE-33">
+      <path id="path99" d="m10.36,41.05V13.57C10.36,6.25,16.27.35,23.55.35h97.3c7.3,0,13.2,5.9,13.2,13.2v27.6c0,7.3-5.9,13.2-13.2,13.2H23.55c-7.3-.1-13.2-6-13.2-13.3h.01Z" style="fill: #f90; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-34">
+      <path id="path102" d="m25.87,37.55c-1.1,0-2-.9-2-2s.9-2,2-2h46.7c1.1,0,2,.9,2,2s-.9,2-2,2H25.87Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-35">
+      <path id="path105" d="m27.15,26.46l-1.3-7.9h1.6l4.8,3.6h10.4l-3.4-8.5h4.5l7.2,8.5h14.5c.8,0,1.6.2,2.3.6l5,2.7c.07.07.13.13.2.2.2.2.3.4.3.7,0,.6-.4,1-1,1H28.15c-.5-.1-.9-.4-1-.9Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-36">
+      <path id="path108" d="m98.45,17.55h-2.5c-.4.9-1.3,1.5-2.2,1.5v2.4h1.7v15.6h3.1v-19.5h-.1Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-37">
+      <path id="path111" d="m116.56,37.05h-13.4v-1.1c-.1-4.8,3.3-8.9,8-9.8,1.4-.4,2.3-1.9,1.8-3.4-.1-.4-.3-.8-.6-1.1-1.5-1.4-3.9-1.4-5.4.2-.4.4-.6.8-.8,1.3l-3.1-.7c.3-1.1.9-2.1,1.7-2.9,2.7-2.7,7-2.8,9.8-.2.8.8,1.4,1.9,1.6,3.1.5,3.2-1.6,6.2-4.8,6.7-2.3.6-4.1,2.3-4.8,4.6h10s0,3.3,0,3.3Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+  <g id="SEGMENT_Head_30" data-name="SEGMENT Head 30">
+    <g id="LWPOLYLINE-38">
+      <path id="path115" d="m1504.85,41.05V13.57c0-7.3,5.9-13.2,13.2-13.2h97.3c7.3,0,13.2,5.9,13.2,13.2v27.6c0,7.3-5.9,13.2-13.2,13.2h-97.3c-7.3-.1-13.2-6-13.2-13.3h0Z" style="fill: #f49819; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-39">
+      <path id="path118" d="m1520.35,34.46c-1.1,0-2-.9-2-2s.9-2,2-2h46.7c1.1,0,2,.9,2,2s-.9,2-2,2h-46.7Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-40">
+      <path id="path121" d="m1565.85,23.37l1.3-7.9h-1.6l-4.8,3.6h-10.4l3.4-8.5h-4.5l-7.2,8.5h-14.5c-.8,0-1.6.2-2.3.6l-5,2.7c-.07.07-.13.13-.2.2-.4.4-.4,1,0,1.4.2.2.4.3.7.3h44.2c.4-.1.8-.4.9-.9Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-41">
+      <path id="path124" d="m1597.67,32.16c.6-2,0-4.1-1.5-5.5.9-1.1,1.4-2.5,1.2-4-.5-3.3-3.5-5.5-6.8-5.1-2.2.3-4,1.8-4.7,3.8l2.9,1c.4-.9,1.2-1.6,2.2-1.8,1.6-.2,3,.8,3.3,2.4v.2c0,1.1-.9,1.9-1.9,1.9h-1.1v3h1.2c.2,0,.4,0,.6.1,1.2.3,2,1.6,1.7,2.9-.3,1.2-1.3,2.2-2.5,2.6-2,.6-4-.5-4.6-2.5l-3.1.6c.9,3.6,4.6,5.8,8.3,4.9,2.3-.4,4.2-2.2,4.8-4.5Z" style="stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-42">
+      <path id="path130" d="m1613.17,20.91c-1.15-1.63-3.74-2.09-5.76-1.16-.58.23-1.01.7-1.44,1.16-2.59,3.72-2.59,8.37,0,12.21,1.15,1.63,3.74,2.09,5.76,1.16.58-.23,1.01-.7,1.44-1.16,2.59-3.84,2.59-8.37,0-12.21Z" style="fill: #f90; stroke: #040608; stroke-linecap: round; stroke-linejoin: round; stroke-width: 4.58px;"/>
+    </g>
+  </g>
+  <g id="SEGMENT_FLOOD" data-name="SEGMENT FLOOD">
+    <g id="LWPOLYLINE-43">
+      <polygon id="polygon134-2" points="355.05 356.36 361.55 360.15 368.05 356.36 368.05 348.86 361.55 345.15 355.05 348.86 355.05 356.36" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-44">
+      <polygon id="polygon137-2" points="515.05 356.36 521.55 360.15 528.05 356.36 528.05 348.86 521.55 345.15 515.05 348.86 515.05 356.36" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+  <g id="SEGMENT_TWY" data-name="SEGMENT TWY">
+    <g id="LWPOLYLINE-45-2">
+      <rect id="rect141-2" x="359.36" y="240" width="20" height="10" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-46-2">
+      <rect id="rect144-2" x="428.36" y="240" width="20" height="10" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-47-2">
+      <rect id="rect147-2" x="548.35" y="240" width="20" height="10" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-48-2">
+      <rect id="rect150-2" x="479.36" y="240" width="20" height="10" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-49-2">
+      <rect id="rect153-2" x="336.36" y="218" width="10" height="20" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-50-2">
+      <rect id="rect156-2" x="451.36" y="218" width="10" height="20" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-51-2">
+      <rect id="rect159-2" x="581.35" y="218" width="10" height="20" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-52-2">
+      <rect id="rect162-2" x="466.36" y="218" width="10" height="20" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-53-2">
+      <rect id="rect165-2" x="351.55" y="256.61" width="20" height="10" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-54-2">
+      <rect id="rect168-2" x="453.86" y="256.61" width="20" height="10" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-55-2">
+      <rect id="rect171-2" x="548.35" y="273.71" width="10" height="20" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+  <g id="SEGMENT_ABN" data-name="SEGMENT ABN">
+    <g id="LWPOLYLINE-56">
+      <path id="path175-2" d="m712.35,276.96l-8.2,3.2v7.5l8.2,3.2c.5.2,1.1-.1,1.3-.6,0-.1.1-.2.1-.4v-12c0-.6-.4-1-1-1-.2,0-.3,0-.4.1h0Z" style="fill: lime; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-57">
+      <path id="path178-2" d="m695.97,276.96l8.2,3.2v7.5l-8.2,3.2c-.1,0-.2.1-.4.1-.6,0-1-.4-1-1v-12.1c0-.1,0-.2.1-.4.2-.5.8-.7,1.3-.5h0Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+  <g id="SEGMENT_END_1" data-name="SEGMENT END 1">
+    <g id="CIRCLE-2-2" data-name="CIRCLE-2">
+      <circle id="circle182-2" cx="5.37" cy="233.56" r="5" style="fill: blue; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="CIRCLE-2-2">
+      <circle id="circle185-2" cx="52.85" cy="259.25" r="5" style="fill: blue; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="CIRCLE-3-2">
+      <circle id="circle188-2" cx="126.56" cy="232.65" r="5" style="fill: blue; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="CIRCLE-4-2">
+      <circle id="circle191-2" cx="1633.57" cy="125.06" r="5" style="fill: blue; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="CIRCLE-5-2">
+      <circle id="circle194-2" cx="1586.07" cy="99.25" r="5" style="fill: blue; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="CIRCLE-6-2">
+      <circle id="circle197-2" cx="1512.35" cy="125.95" r="5" style="fill: blue; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-58-2">
+      <path id="path200-2" d="m147.87,155.75v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: lime; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-59-2">
+      <path id="path203-2" d="m147.87,155.75v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-60-2">
+      <path id="path206-2" d="m147.87,180.45v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: lime; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-61-2">
+      <path id="path209-2" d="m147.87,180.45v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-62-2">
+      <path id="path212-2" d="m5.35,168.15v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-63-2">
+      <path id="path215-2" d="m5.35,168.15v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-64-2">
+      <path id="path218-2" d="m5.35,192.75v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-65-2">
+      <path id="path221-2" d="m5.35,192.75v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-66-2">
+      <path id="path224-2" d="m1633.57,155.75v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-67-2">
+      <path id="path227-2" d="m1633.57,155.75v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-68-2">
+      <path id="path230-2" d="m1633.57,180.45v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-69-2">
+      <path id="path233-2" d="m1633.57,180.45v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-70-2">
+      <path id="path236-2" d="m1491.07,168.15v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-71-2">
+      <path id="path239-2" d="m1491.07,168.15v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: lime; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-72-2">
+      <path id="path242-2" d="m1491.07,192.75v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-73-2">
+      <path id="path245-2" d="m1491.07,192.75v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: lime; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+  <g id="SEGMENT_END_2" data-name="SEGMENT END 2">
+    <g id="CIRCLE-7-2">
+      <circle id="circle249-2" cx="5.37" cy="259.25" r="5" style="fill: blue; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="CIRCLE-8-2">
+      <circle id="circle252-2" cx="100.35" cy="259.25" r="5" style="fill: blue; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="CIRCLE-9-2">
+      <circle id="circle255-2" cx="1633.57" cy="99.25" r="5" style="fill: blue; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="CIRCLE-10-2">
+      <circle id="circle258-2" cx="1538.57" cy="99.25" r="5" style="fill: blue; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-74-2">
+      <path id="path261-2" d="m147.87,168.15v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: lime; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-75-2">
+      <path id="path264-2" d="m147.87,168.15v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-76-2">
+      <path id="path267-2" d="m147.87,192.75v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: lime; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-77-2">
+      <path id="path270-2" d="m147.87,192.75v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-78-2">
+      <path id="path273-2" d="m5.35,155.75v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-79-2">
+      <path id="path276-2" d="m5.35,155.75v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-80-2">
+      <path id="path279-2" d="m5.35,180.45v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-81-2">
+      <path id="path282-2" d="m5.35,180.45v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-82-2">
+      <path id="path285-2" d="m1633.57,168.15v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-83-2">
+      <path id="path288-2" d="m1633.57,168.15v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-84-2">
+      <path id="path291-2" d="m1633.57,192.75v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-85-2">
+      <path id="path294-2" d="m1633.57,192.75v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-86-2">
+      <path id="path297-2" d="m1491.07,155.75v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-87-2">
+      <path id="path300-2" d="m1491.07,155.75v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: lime; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-88-2">
+      <path id="path303-2" d="m1491.07,180.45v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-89-2">
+      <path id="path306-2" d="m1491.07,180.45v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: lime; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+  <g id="SEGMENT_RE_1" data-name="SEGMENT RE 1">
+    <g id="LWPOLYLINE-90-2">
+      <path id="path310-2" d="m147.87,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-91-2">
+      <path id="path313-2" d="m147.87,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-92-2">
+      <path id="path316-2" d="m147.87,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: none; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-93-2">
+      <path id="path319-2" d="m147.87,217.15v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: none; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-94-2">
+      <path id="path322-2" d="m297.05,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-95-2">
+      <path id="path325-2" d="m297.05,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-96-2">
+      <path id="path328-2" d="m446.27,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-97-2">
+      <path id="path331-2" d="m446.27,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-98-2">
+      <path id="path334-2" d="m595.47,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-99-2">
+      <path id="path337-2" d="m595.47,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-100-2">
+      <path id="path340-2" d="m744.77,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-101-2">
+      <path id="path343-2" d="m744.77,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-102-2">
+      <path id="path346-2" d="m893.97,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-103-2">
+      <path id="path349-2" d="m893.97,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-104-2">
+      <path id="path352-2" d="m1043.17,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-105-2">
+      <path id="path355-2" d="m1043.17,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-106-2">
+      <path id="path358-2" d="m1192.35,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-107-2">
+      <path id="path361-2" d="m1192.35,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-108-2">
+      <path id="path364-2" d="m1341.57,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-109-2">
+      <path id="path367-2" d="m1341.57,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-110-2">
+      <path id="path370-2" d="m1490.85,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-111-2">
+      <path id="path373-2" d="m1490.85,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-112-2">
+      <path id="path376-2" d="m147.87,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-113-2">
+      <path id="path379-2" d="m147.87,217.15v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-114-2">
+      <path id="path382-2" d="m297.05,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-115-2">
+      <path id="path385-2" d="m297.05,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-116-2">
+      <path id="path388-2" d="m446.27,217.15v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-117-2">
+      <path id="path391-2" d="m446.27,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-118-2">
+      <path id="path394-2" d="m595.47,217.15v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-119-2">
+      <path id="path397-2" d="m595.47,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-120-2">
+      <path id="path400-2" d="m744.77,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-121-2">
+      <path id="path403-2" d="m744.77,217.15v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-122-2">
+      <path id="path406-2" d="m893.97,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-123-2">
+      <path id="path409-2" d="m893.97,217.15v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-124-2">
+      <path id="path412-2" d="m1043.17,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-125-2">
+      <path id="path415-2" d="m1043.17,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-126-2">
+      <path id="path418-2" d="m1192.35,217.15v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-127-2">
+      <path id="path421-2" d="m1192.35,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-128-2">
+      <path id="path424-2" d="m1341.57,217.15v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-129-2">
+      <path id="path427-2" d="m1341.57,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-130-2">
+      <path id="path430-2" d="m1490.85,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: silver; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-131-2">
+      <path id="path433-2" d="m1490.85,217.15v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: red; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+  <g id="SEGMENT_RE_2" data-name="SEGMENT RE 2">
+    <g id="LWPOLYLINE-132-2">
+      <path id="path437-2" d="m222.45,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-133-2">
+      <path id="path440-2" d="m222.45,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-134-2">
+      <path id="path443-2" d="m371.65,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-135-2">
+      <path id="path446-2" d="m371.65,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-136-2">
+      <path id="path449-2" d="m520.85,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-137-2">
+      <path id="path452-2" d="m520.85,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-138-2">
+      <path id="path455-2" d="m670.05,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-139-2">
+      <path id="path458-2" d="m670.05,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-140-2">
+      <path id="path461-2" d="m819.35,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-141-2">
+      <path id="path464-2" d="m819.35,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-142-2">
+      <path id="path467-2" d="m968.55,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-143-2">
+      <path id="path470-2" d="m968.55,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-144-2">
+      <path id="path473-2" d="m1117.77,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-145-2">
+      <path id="path476-2" d="m1117.77,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-146-2">
+      <path id="path479-2" d="m1266.95,141.37v10c-2.8,0-5-2.2-5-5s2.3-5,5-5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-147-2">
+      <path id="path482-2" d="m1266.95,141.37v10c2.8,0,5-2.2,5-5s-2.2-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-148-2">
+      <path id="path485-2" d="m1416.27,141.37v10c-2.8,0-5-2.2-5-5s2.2-5,5-5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-149-2">
+      <path id="path488-2" d="m1416.27,141.37v10c2.8,0,5-2.2,5-5s-2.3-5-5-5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-150-2">
+      <path id="path491-2" d="m222.45,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-151-2">
+      <path id="path494-2" d="m222.45,217.15v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-152-2">
+      <path id="path497-2" d="m371.65,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-153-2">
+      <path id="path500-2" d="m371.65,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-154-2">
+      <path id="path503-2" d="m520.85,217.15v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-155-2">
+      <path id="path506-2" d="m520.85,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-156-2">
+      <path id="path509-2" d="m670.05,217.15v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-157-2">
+      <path id="path512-2" d="m670.05,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-158-2">
+      <path id="path515-2" d="m819.35,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-159-2">
+      <path id="path518-2" d="m819.35,217.15v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-160-2">
+      <path id="path521-2" d="m968.55,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-161-2">
+      <path id="path524-2" d="m968.55,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-162-2">
+      <path id="path527-2" d="m1117.77,217.15v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-163-2">
+      <path id="path530-2" d="m1117.77,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-164-2">
+      <path id="path533-2" d="m1266.95,217.15v-10c-2.8,0-5,2.2-5,5s2.3,5,5,5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-165-2">
+      <path id="path536-2" d="m1266.95,217.15v-10c2.8,0,5,2.2,5,5s-2.2,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-166-2">
+      <path id="path539-2" d="m1416.27,217.15v-10c-2.8,0-5,2.2-5,5s2.2,5,5,5Z" style="fill: #ff0; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+    <g id="LWPOLYLINE-167-2">
+      <path id="path542-2" d="m1416.27,217.15v-10c2.8,0,5,2.2,5,5s-2.3,5-5,5Z" style="fill: #fff; stroke: silver; stroke-linecap: round; stroke-linejoin: round; stroke-width: .71px;"/>
+    </g>
+  </g>
+</svg>

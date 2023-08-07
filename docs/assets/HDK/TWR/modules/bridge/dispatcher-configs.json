@@ -1,0 +1,9 @@
+﻿{
+    "Method": "tcp",
+    "FieldName":  "Bridge_S",
+    "WriteChannel": "192.168.10.2:11002",
+    "ReadChannel": "192.168.10.2:8852",
+    "Role": "Slave",
+    "send-alive-every_ms": 5000,
+    "set-as-not-alive-after_ms": 7000
+}

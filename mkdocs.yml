@@ -1,0 +1,38 @@
+site_name: HDK Installation Documentation
+# site_url: https://example.com/
+nav:
+    - Home: ./pages/index.md
+    - Map: ./pages/map.md
+    - Stations: ./pages/stations.md
+    - Modules: ./pages/modules.md
+    - Devices: ./pages/devices.md
+    - Operations: ./pages/operations.md
+    - Configurations: ./pages/configurations.md
+    - Naming Conventions: ./pages/naming-conventions.md
+    - Versioning: ./pages/versioning.md
+    - Enhances: ./pages/enhances.md
+    - Tests: ./pages/tests.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+plugins:
+    - search
+    - macros
+
+# here we define global variables
+extra:
+  version: 0.0.1
+  airport: HDK
+  runways: ['1230']
+  headings: ['12','30']
+  stations: ['TWR','ELV']
+  modules:
+    backends: ['TWR_BACKEND','ELV_BACKEND']
+    configurators: ['TWR_CONFIGURATOR','ELV_CONFIGURATOR']
+    loggers: ['TWR_LOGGER','ELV_LOGGER']
+    bridges: ['BRIDGE_M','BRIDGE_S']
+    gateways: ['FGW_M','FGW_S']
+
+theme: readthedocs

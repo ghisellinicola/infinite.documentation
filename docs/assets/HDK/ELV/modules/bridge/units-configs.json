@@ -1,0 +1,45 @@
+﻿{
+	"Ccrs": [
+		{
+			"UnitId": "RWYEDGE1",
+			"DeviceConfigId": "ALARMS_DIAM_LNS"
+		},
+		{
+			"UnitId": "RWYEDGE2",
+			"DeviceConfigId": "ALARMS_DIAM_LNS"
+		},
+		{
+			"UnitId": "RWYEND1",
+			"DeviceConfigId": "ALARMS_DIAM_LNS"
+		},
+		{
+			"UnitId": "RWYEND2",
+			"DeviceConfigId": "ALARMS_DIAM_LNS"
+		},
+		{
+			"UnitId": "SIGN",
+			"DeviceConfigId": "ALARMS_DIAM_LNS"
+		},
+		{
+			"UnitId": "APAPI",
+			"DeviceConfigId": "ALARMS_DIAM_LNS_SELECTOR"
+		}
+	],
+	"Auxs": [
+		{
+			"UnitId": "AUXTWR",
+			"IOs": [
+				"ABN"
+			],
+			"DeviceConfigId": "AUX1_IO"
+		},
+		{
+			"UnitId": "AUXELV",
+			"IOs": [
+				"FLOOD",
+				"WDI"
+			],
+			"DeviceConfigId": "AUX2_IO"
+		}
+	]
+}

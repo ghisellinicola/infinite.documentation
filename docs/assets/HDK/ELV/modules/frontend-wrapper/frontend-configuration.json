@@ -1,0 +1,35 @@
+{
+	"name": "OCEM Infinity - Cab00",
+	"url": "https://elv.hdk.ocem/",
+	"appMode": 0,
+	"assetsPath": "D:\\DBs\\apps\\Frontend\\Assets",
+	"password": "OCEM",
+	"taskBarButtons": [
+		{
+			"name": "GTW",
+			"processName": "AglFieldGateway_lns",
+			"fullPath": null,
+			"arguments": "",
+			"visibility": 1
+		},
+		{
+			"name": "Bridge",
+			"processName": "SWOAT_ddsInterSystem",
+			"fullPath": null,
+			"arguments": "",
+			"visibility": 1
+		}
+	],
+	"EditableFiles": [
+		{
+			"Name": "Frontend GUI",
+			"Elements": [
+				{
+					"name": "Frontend Config",
+					"path": "C:\\Program Files (x86)\\Notepad++\\notepad++.exe",
+					"arguments": "D:\\DBs\\apps\\Frontend\\ConfigurationFiles\\frontend-configuration.json"
+				}
+			]
+		}
+	]
+}

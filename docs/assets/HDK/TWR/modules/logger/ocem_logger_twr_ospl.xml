@@ -1,0 +1,110 @@
+<OpenSplice>
+    <Domain>
+        <Name>ospl_ocem_log-twr</Name>
+        <Id>10</Id>
+        <SingleProcess>true</SingleProcess>
+        <Description>Stand-alone 'single-process' deployment and standard DDSI networking.</Description>
+        <Service name="ddsi2">
+            <Command>ddsi2</Command>
+        </Service>
+        <Service name="durability">
+            <Command>durability</Command>
+        </Service>
+        <Service name="cmsoap">
+            <Command>cmsoap</Command>
+        </Service>
+        <Service name="dbmsconnect">
+            <Command>dbmsconnect</Command>
+        </Service>
+    </Domain>
+    <DDSI2Service name="ddsi2">
+        <General>
+            <NetworkInterfaceAddress>Ethernet 4</NetworkInterfaceAddress>
+            <AllowMulticast>true</AllowMulticast>
+            <EnableMulticastLoopback>true</EnableMulticastLoopback>
+            <CoexistWithNativeNetworking>false</CoexistWithNativeNetworking>
+        </General>
+        <Compatibility>
+            <StandardsConformance>lax</StandardsConformance>
+        </Compatibility>
+        <Tracing>
+            <OutputFile>D:\INFINITE\_logs\modules\ddsi2-log-twr.log</OutputFile>
+            <AppendToFile>false</AppendToFile>
+            <Timestamps>true</Timestamps>
+            <Verbosity>finest</Verbosity>
+        </Tracing>
+    </DDSI2Service>
+    <DurabilityService name="durability">
+        <Network>
+            <Alignment>
+                <TimeAlignment>false</TimeAlignment>
+                <RequestCombinePeriod>
+                    <Initial>2.5</Initial>
+                    <Operational>0.1</Operational>
+                </RequestCombinePeriod>
+            </Alignment>
+            <WaitForAttachment maxWaitCount="100">
+                <ServiceName>ddsi2</ServiceName>
+            </WaitForAttachment>
+        </Network>
+        <NameSpaces>
+            <NameSpace name="defaultNamespace">
+                <Partition>*</Partition>
+            </NameSpace>
+            <Policy alignee="Initial" aligner="true" durability="Persistent" masterPriority="104" nameSpace="defaultNamespace"/>
+        </NameSpaces>
+        <Tracing enabled="true">
+            <OutputFile>D:\INFINITE\_logs\modules\durability-log-twr.log</OutputFile>
+            <Verbosity>INFO</Verbosity>
+            <Timestamps>true</Timestamps>
+        </Tracing>
+    </DurabilityService>
+    <TunerService name="cmsoap">
+        <Server>
+            <PortNr>Auto</PortNr>
+        </Server>
+    </TunerService>
+    <DbmsConnectService name="dbmsconnect">
+        <Tracing>
+            <OutputFile>D:\INFINITE\_logs\dbmsconnect.log</OutputFile>
+            <Timestamps>true</Timestamps>
+            <Verbosity>FINEST</Verbosity>
+        </Tracing>
+        <DdsToDbms>
+            <NameSpace dsn="dds2dbms-mdb" partition="*" pwd="dds-dev" usr="dds">
+                <Mapping table="OCEM_StatusCcr" topic="OCEM_StatusCcr"/>
+                <Mapping table="OCEM_StatusFlash" topic="OCEM_StatusFlash"/>
+                <Mapping table="OCEM_StatusIO" topic="OCEM_StatusIO"/>
+                <Mapping table="OCEM_StatusAux" topic="OCEM_StatusAux"/>
+                <Mapping table="OCEM_StatusStopBar" topic="OCEM_StatusStopBar"/>
+                <Mapping table="OCEM_CommandCcr" topic="OCEM_CommandCcr"/>
+                <Mapping table="OCEM_CommandFlash" topic="OCEM_CommandFlash"/>
+                <Mapping table="OCEM_CommandIO" topic="OCEM_CommandIO"/>
+                <Mapping table="OCEM_CommandStopBar" topic="OCEM_CommandStopBar"/>
+                <!--
+                    topic="OCEM_*"
+                <Mapping table="OCEM_AlarmMessages" topic="OCEM_AlarmMessages"/>
+                <Mapping table="OCEM_AuditLogsMessages" topic="OCEM_AuditLogsMessages"/>
+                -->
+            </NameSpace>
+        </DdsToDbms>
+        <!--
+        <DbmsToDds>
+            <NameSpace dsn="dds2dbms-rpl" partition="*" pwd="dds-dev" table="OCEM_*" usr="dds-replication">
+                <Mapping event_table_policy="FULL" force_key_equality="true" publish_initial_data="false" table="OCEM_StatusCcr" topic="OCEM_StatusCcr" trigger_policy="FULL"/>
+                <Mapping table="OCEM_StatusFlash" topic="OCEM_StatusFlash"/>
+                <Mapping table="OCEM_StatusIO" topic="OCEM_StatusIO"/>
+                <Mapping table="OCEM_StatusAux" topic="OCEM_StatusAux"/>
+                <Mapping table="OCEM_StatusStopBar" topic="OCEM_StatusStopBar"/>
+                <Mapping table="OCEM_CommandCcr" topic="OCEM_CommandCcr"/>
+                <Mapping table="OCEM_CommandFlash" topic="OCEM_CommandFlash"/>
+                <Mapping table="OCEM_CommandIO" topic="OCEM_CommandIO"/>
+                <Mapping table="OCEM_CommandAux" topic="OCEM_CommandAux"/>
+                <Mapping table="OCEM_CommandStopBar" topic="OCEM_CommandStopBar"/>
+                <Mapping table="OCEM_AlarmMessages" topic="OCEM_AlarmMessages"/>
+                <Mapping table="OCEM_AuditLogsMessages" topic="OCEM_AuditLogsMessages"/>
+            </NameSpace>
+        </DbmsToDds>
+        -->
+    </DbmsConnectService>
+</OpenSplice>

@@ -1,0 +1,174 @@
+{
+	"Sender": "OCEM_Configurator",
+	"Partition": "OCEM",
+	"Domain": 10,
+	"Topics": [
+		{
+			"Name": "OCEM_Reachability",
+			"Entity": "REACHABILITY",
+			"Role": "ReadWrite",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 10
+				},
+				"Ownership": {
+					"OwnershipKind": 0
+				},
+				"DataAvailability": {
+					"DurabilityKind": 3,
+					"HistoryKind": 0,
+					"HistoryDepth": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Configurator_Reachability_Publisher&Subscriber"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_AuditLogs",
+			"Entity": "LOG",
+			"Role": "Write",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 1
+				},
+				"Ownership": {
+					"OwnershipKind": 0
+				},
+				"DataAvailability": {
+					"DurabilityKind": 1,
+					"HistoryKind": 1
+				},
+				"Configurations": {
+					"Value": "@OCEM_Configurator_AuditLogs_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_Conf_Generic",
+			"Entity": "GENERIC_CONF",
+			"Role": "ReadWrite",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"DataAvailability": {
+					"DurabilityKind": 3,
+					"HistoryKind": 1,
+					"HistoryDepth": 15
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Configurator_Conf_Generic_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_Conf_Role",
+			"Entity": "ROLE_CONF",
+			"Role": "ReadWrite",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"DataAvailability": {
+					"DurabilityKind": 3,
+					"HistoryKind": 1,
+					"HistoryDepth": 5
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Configurator_RoleConfiguration_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_Conf_User",
+			"Entity": "USER_CONF",
+			"Role": "ReadWrite",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"DataAvailability": {
+					"DurabilityKind": 3,
+					"HistoryKind": 1,
+					"HistoryDepth": 5
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Configurator_UserConfiguration_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_Conf_CcrSteps",
+			"Entity": "CCRSTEPS_CONF",
+			"Role": "ReadWrite",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"DataAvailability": {
+					"DurabilityKind": 3,
+					"HistoryKind": 0,
+					"HistoryDepth": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Configurator_CcrStepsConfiguration_Publisher"
+				}
+			}
+		},
+		{
+			"Name": "OCEM_Conf_StopBars",
+			"Entity": "STOPBAR_CONF",
+			"Role": "ReadWrite",
+			"QoS": {
+				"Timeliness": {
+					"TransportPriority": 5
+				},
+				"DataAvailability": {
+					"DurabilityKind": 3,
+					"HistoryKind": 0,
+					"HistoryDepth": 1
+				},
+				"DataDelivery": {
+					"Reliability": {
+						"ReliabilityKind": 1
+					},
+					"DestinationOrderKind": 0
+				},
+				"Configurations": {
+					"Value": "@OCEM_Configurator_StopBarsConfiguration_Publisher"
+				}
+			}
+		}
+	]
+}

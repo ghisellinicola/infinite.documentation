@@ -1,0 +1,16 @@
+{
+	"NetConfig": {
+		"NetName": "",
+		"StationId": "PCCab00",
+		"MainChannelName": null,
+		"RootSubsystem": null,
+		"AppNetCfgFile": "",
+		"AutoStartEnabled": true,
+		"StatesUpdateInterval_ms": 10000,
+		"AliveUpdateInterval_ms": 5000,
+		"UnitsAliveCheckingInterval_ms": 5000,
+		"UnitsAliveCheckingOutMax": 2,
+		"UnitsCommandCheckingInterval_ms": 0
+	},
+	"ProxiesConfigL": {}
+}

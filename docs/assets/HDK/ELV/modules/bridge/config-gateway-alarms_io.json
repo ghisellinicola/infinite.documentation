@@ -1,0 +1,314 @@
+﻿{
+	"Data-From-Field": {
+		"ALARMS_DIAM_LNS": {
+			"FlagsName": "DIAM Alarms no selector",
+			"FlagsL": {
+				"noPower": {
+					"Usage": 4,
+					"RawPos": 0,
+					"Name": "noPower",
+					"Alias": "NP",
+					"Description": "No Power Line"
+				},
+				"openC": {
+					"Usage": 4,
+					"RawPos": 1,
+					"Name": "openC",
+					"Alias": "OPC",
+					"Description": "Open Circuit"
+				},
+				"overC": {
+					"Usage": 4,
+					"RawPos": 2,
+					"Name": "overC",
+					"Alias": "OVC",
+					"Description": "Over Current"
+				},
+				"regErr": {
+					"Usage": 5,
+					"RawPos": 3,
+					"Name": "regErr",
+					"Alias": "REGERR",
+					"Description": "Regulation Error"
+				},
+				"pwrDrop": {
+					"Usage": 5,
+					"RawPos": 4,
+					"Name": "pwrDrop",
+					"Alias": "PWRDROP",
+					"Description": "Power Drop"
+				},
+				"efd1": {
+					"Usage": 5,
+					"RawPos": 8,
+					"Name": "efd1",
+					"Alias": "EFD1",
+					"Description": "Earth Fault Level 1"
+				},
+				"efd2": {
+					"Usage": 5,
+					"RawPos": 9,
+					"Name": "efd2",
+					"Alias": "EFD2",
+					"Description": "Earth Fault Level 2"
+				},
+				"lfd1": {
+					"Usage": 5,
+					"RawPos": 10,
+					"Name": "lfd1",
+					"Alias": "LFD1",
+					"Description": "Lamp Fault Level 1"
+				},
+				"lfd2": {
+					"Usage": 5,
+					"RawPos": 11,
+					"Name": "lfd2",
+					"Alias": "LFD2",
+					"Description": "Lamp Fault Level 2"
+				},
+				"ITFF": {
+					"Usage": 5,
+					"RawPos": 16,
+					"Name": "ITFF",
+					"Alias": "ITFF",
+					"Description": "Interface Faultb"
+				}
+			},
+			"FlagsPosL": {},
+			"_warningMap": 69400,
+			"CmdMap": 0
+		},
+		"ALARMS_DIAM_LNS_SELECTOR": {
+			"FlagsName": "DIAM Alarms selector",
+			"FlagsL": {
+				"noPower": {
+					"Usage": 4,
+					"RawPos": 0,
+					"Name": "noPower",
+					"Alias": "NP",
+					"Description": "No Power Line"
+				},
+				"openC": {
+					"Usage": 4,
+					"RawPos": 1,
+					"Name": "openC",
+					"Alias": "OPC",
+					"Description": "Open Circuit"
+				},
+				"overC": {
+					"Usage": 4,
+					"RawPos": 2,
+					"Name": "overC",
+					"Alias": "OVC",
+					"Description": "Over Current"
+				},
+				"regErr": {
+					"Usage": 5,
+					"RawPos": 3,
+					"Name": "regErr",
+					"Alias": "REGERR",
+					"Description": "Regulation Error"
+				},
+				"pwrDrop": {
+					"Usage": 5,
+					"RawPos": 4,
+					"Name": "pwrDrop",
+					"Alias": "PWRDROP",
+					"Description": "Power Drop"
+				},
+				"efd1": {
+					"Usage": 5,
+					"RawPos": 8,
+					"Name": "efd1",
+					"Alias": "EFD1",
+					"Description": "Earth Fault Level 1"
+				},
+				"efd2": {
+					"Usage": 5,
+					"RawPos": 9,
+					"Name": "efd2",
+					"Alias": "EFD2",
+					"Description": "Earth Fault Level 2"
+				},
+				"lfd1": {
+					"Usage": 5,
+					"RawPos": 10,
+					"Name": "lfd1",
+					"Alias": "LFD1",
+					"Description": "Lamp Fault Level 1"
+				},
+				"lfd2": {
+					"Usage": 5,
+					"RawPos": 11,
+					"Name": "lfd2",
+					"Alias": "LFD2",
+					"Description": "Lamp Fault Level 2"
+				},
+				"ITFF": {
+					"Usage": 5,
+					"RawPos": 16,
+					"Name": "ITFF",
+					"Alias": "ITFF",
+					"Description": "Interface Faultb"
+				},
+				"selF": {
+					"Usage": 5,
+					"RawPos": 17,
+					"Name": "selF",
+					"Alias": "selF",
+					"Description": "Selector Faultb"
+				},
+				"selL": {
+					"Usage": 5,
+					"RawPos": 18,
+					"Name": "selL",
+					"Alias": "selL",
+					"Description": "Selector Local"
+				},
+				"selMis": {
+					"Usage": 5,
+					"RawPos": 19,
+					"Name": "selMis",
+					"Alias": "selMis",
+					"Description": "Selector Mismatch"
+				}
+			},
+			"FlagsPosL": {},
+			"_warningMap": 69400,
+			"CmdMap": 0
+		},
+		"AUX1_IO": {
+			"FlagsName": "Tower Aux",
+			"FlagsL": {
+				"ABN": {
+					"Usage": 2,
+					"RawPos": 0,
+					"Name": "Beacon",
+					"Alias": "ABN",
+					"Description": "Change status Beacon"
+				},
+				"ABN.Sts": {
+					"Usage": 1,
+					"RawPos": 0,
+					"Name": "Is on Beacon",
+					"Alias": "ABN",
+					"Description": "Is On beacon"
+				}
+			}
+		},
+		"AUX2_IO": {
+			"FlagsName": "Electrical Vault Aux",
+			"FlagsL": {
+				"FLOOD1.Cmd": {
+					"Usage": 2,
+					"RawPos": 0,
+					"Name": "Flood lights 1",
+					"Alias": "FLOOD",
+					"Description": "Change status flood lights 1"
+				},
+				"FLOOD1.Sts": {
+					"Usage": 1,
+					"RawPos": 0,
+					"Name": "Is on Flood lights 1",
+					"Alias": "FLOOD",
+					"Description": "Is On flood lights 1"
+				},
+				"FLOOD2.Cmd": {
+					"Usage": 2,
+					"RawPos": 1,
+					"Name": "Flood lights 2",
+					"Alias": "FLOOD",
+					"Description": "Change status flood lights 2"
+				},
+				"FLOOD2.Sts": {
+					"Usage": 1,
+					"RawPos": 1,
+					"Name": "Is on Flood lights 2",
+					"Alias": "FLOOD",
+					"Description": "Is On flood lights 2"
+				},
+				"WDI.Cmd": {
+					"Usage": 2,
+					"RawPos": 3,
+					"Name": "Wind Cone",
+					"Alias": "WDI",
+					"Description": "Change Status Wind Cone"
+				},
+				"WDI.Sts": {
+					"Usage": 1,
+					"RawPos": 4,
+					"Name": "Is on windcone",
+					"Alias": "WDI",
+					"Description": "Is on windcone"
+				}
+			}
+		}
+	},
+	"Visualization_map": {
+		"noPower": {
+			"BitstringPosition": 26,
+			"SingleBlockAlarm": true,
+			"SingleBlockWarning": false
+		},
+		"openC": {
+			"BitstringPosition": 0,
+			"SingleBlockAlarm": true,
+			"SingleBlockWarning": false
+		},
+		"overC": {
+			"BitstringPosition": 25,
+			"SingleBlockAlarm": true,
+			"SingleBlockWarning": false
+		},
+		"regErr": {
+			"BitstringPosition": 23,
+			"SingleBlockAlarm": false,
+			"SingleBlockWarning": true
+		},
+		"pwrDrop": {
+			"BitstringPosition": 27,
+			"SingleBlockAlarm": false,
+			"SingleBlockWarning": true
+		},
+		"efd1": {
+			"BitstringPosition": 19,
+			"SingleBlockAlarm": false,
+			"SingleBlockWarning": true
+		},
+		"efd2": {
+			"BitstringPosition": 20,
+			"SingleBlockAlarm": true,
+			"SingleBlockWarning": false
+		},
+		"lfd1": {
+			"BitstringPosition": 17,
+			"SingleBlockAlarm": false,
+			"SingleBlockWarning": true
+		},
+		"lfd2": {
+			"BitstringPosition": 18,
+			"SingleBlockAlarm": true,
+			"SingleBlockWarning": false
+		},
+		"ITFF": {
+			"BitstringPosition": 28,
+			"SingleBlockAlarm": true,
+			"SingleBlockWarning": false
+		},
+		"selF": {
+			"BitstringPosition": 29,
+			"SingleBlockAlarm": true,
+			"SingleBlockWarning": false
+		},
+		"selL": {
+			"BitstringPosition": 30,
+			"SingleBlockAlarm": true,
+			"SingleBlockWarning": false
+		},
+		"selMis": {
+			"BitstringPosition": 22,
+			"SingleBlockAlarm": true,
+			"SingleBlockWarning": false
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"AppName": "FIELD_GATEWAY_GENERAL",
+	"StationName": "PCCab00",
+	"SerializationMode": "json",
+	"AutoEnable": true,
+	"UnitsGeneralSimulation": false,
+	"ConfigDir": "D:\\DBs\\apps\\aglFieldGateway_lns___config",
+	"ConfigFile": "D:\\DBs\\apps\\aglFieldGateway_lns___config\\config_gateway___lns_units.json",
+	"UIConfigFile": "D:\\DBs\\apps\\aglFieldGateway_lns___config\\config_gateway___ui.json",
+	"IoAlarmsDescriptionFile": "D:\\DBs\\apps\\aglFieldGateway_lns___config\\config_gateway___io_alarms.json",
+	"IsConfigured": true,
+	"StatesUpdateInterval_ms": 1000,
+	"AliveUpdateInterval_ms": 5000,
+	"UnitsAliveCheckingInterval_ms": 10000,
+	"UnitsAliveCheckingOutMax": 2,
+	"ExpectedLinksAliasL": {}
+}

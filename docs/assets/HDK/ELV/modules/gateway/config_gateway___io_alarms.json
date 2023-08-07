@@ -1,0 +1,267 @@
+{
+	"DIAM-ALARMS-NO-SELECTORS": {
+		"FlagsName": "DIAM-ALARMS-NO-SELECTORS",
+		"FlagsL": {
+			"NoPowerLine": {
+				"Usage": 4,
+				"RawPos": 0,
+				"Name": "NoPowerLine",
+				"Alias": "NO.PWR.LINE",
+				"Description": "No Power Line"
+			},
+			"openC": {
+				"Usage": 4,
+				"RawPos": 1,
+				"Name": "openC",
+				"Alias": "OPN.CIRC",
+				"Description": "Open Circuit"
+			},
+			"overCurr": {
+				"Usage": 4,
+				"RawPos": 2,
+				"Name": "overCurr",
+				"Alias": "OVR.CURR",
+				"Description": "Over Current"
+			},
+			"regErr": {
+				"Usage": 5,
+				"RawPos": 3,
+				"Name": "regErr",
+				"Alias": "REG.ERR",
+				"Description": "Regulation Error"
+			},
+			"PwrDrop": {
+				"Usage": 5,
+				"RawPos": 4,
+				"Name": "PwrDrop",
+				"Alias": "PWR.DROP",
+				"Description": "Power Drop"
+			},
+			"efd1": {
+				"Usage": 5,
+				"RawPos": 8,
+				"Name": "efd1",
+				"Alias": "EFD.W",
+				"Description": "Earth Fault Level 1"
+			},
+			"efd2": {
+				"Usage": 4,
+				"RawPos": 9,
+				"Name": "efd2",
+				"Alias": "EFD2.A",
+				"Description": "Earth Fault Level 2"
+			},
+			"lfd1": {
+				"Usage": 5,
+				"RawPos": 10,
+				"Name": "lfd1",
+				"Alias": "LFD1.W",
+				"Description": "Lamp Fault Level 1"
+			},
+			"lfd2": {
+				"Usage": 4,
+				"RawPos": 11,
+				"Name": "lfd2",
+				"Alias": "LFD2.W",
+				"Description": "Lamp Fault Level 2"
+			},
+			"ITFFLT": {
+				"Usage": 5,
+				"RawPos": 16,
+				"Name": "ITF.FLT",
+				"Alias": "ITF.FAULT",
+				"Description": "Interface Fault"
+			}
+		}
+	},
+	"DIAM-ALARMS-WITH-SELECTORS": {
+		"FlagsName": "DIAM-ALARMS-WITH-SELECTORS",
+		"FlagsL": {
+			"NoPowerLine": {
+				"Usage": 4,
+				"RawPos": 0,
+				"Name": "NoPowerLine",
+				"Alias": "NO.PWR.LINE",
+				"Description": "No Power Line"
+			},
+			"openC": {
+				"Usage": 4,
+				"RawPos": 1,
+				"Name": "openC",
+				"Alias": "OPN.CIRC",
+				"Description": "Open Circuit"
+			},
+			"overCurr": {
+				"Usage": 4,
+				"RawPos": 2,
+				"Name": "overCurr",
+				"Alias": "OVR.CURR",
+				"Description": "Over Current"
+			},
+			"regErr": {
+				"Usage": 5,
+				"RawPos": 3,
+				"Name": "regErr",
+				"Alias": "REG.ERR",
+				"Description": "Regulation Error"
+			},
+			"PwrDrop": {
+				"Usage": 5,
+				"RawPos": 4,
+				"Name": "PwrDrop",
+				"Alias": "PWR.DROP",
+				"Description": "Power Drop"
+			},
+			"efd1": {
+				"Usage": 5,
+				"RawPos": 8,
+				"Name": "efd1",
+				"Alias": "EFD.W",
+				"Description": "Earth Fault Level 1"
+			},
+			"efd2": {
+				"Usage": 4,
+				"RawPos": 9,
+				"Name": "efd2",
+				"Alias": "EFD2.A",
+				"Description": "Earth Fault Level 2"
+			},
+			"lfd1": {
+				"Usage": 5,
+				"RawPos": 10,
+				"Name": "lfd1",
+				"Alias": "LFD1.W",
+				"Description": "Lamp Fault Level 1"
+			},
+			"lfd2": {
+				"Usage": 4,
+				"RawPos": 11,
+				"Name": "lfd2",
+				"Alias": "LFD2.W",
+				"Description": "Lamp Fault Level 2"
+			},
+			"ITFFLT": {
+				"Usage": 5,
+				"RawPos": 16,
+				"Name": "ITF.FLT",
+				"Alias": "ITF.FAULT",
+				"Description": "Interface Fault"
+			},
+			"SEL.FLT": {
+				"Usage": 5,
+				"RawPos": 17,
+				"Name": "SEL.FLT",
+				"Alias": "SEL.FAULT",
+				"Description": "Selector Fault"
+			},
+			"SEL.LOC": {
+				"Usage": 4,
+				"RawPos": 18,
+				"Name": "SEL.LOC",
+				"Alias": "SEL.LOC",
+				"Description": "Selector Local"
+			},
+			"SEL.MSM": {
+				"Usage": 4,
+				"RawPos": 19,
+				"Name": "SEL.MSM",
+				"Alias": "SEL.MSM",
+				"Description": "Selector Mismatch"
+			},
+			"PAPI_12.cmd": {
+				"Usage": 2,
+				"RawPos": 0,
+				"Name": "PAPI_12.cmd",
+				"Alias": "PAPI_12.cmd",
+				"Description": "PAPI_HEAD_12"
+			},
+			"PAPI_30.cmd": {
+				"Usage": 2,
+				"RawPos": 1,
+				"Name": "PAPI_30.cmd",
+				"Alias": "PAPI_30.cmd",
+				"Description": "PAPI_HEAD_30"
+			}
+		}
+	},
+	"IO_FL_WDI": {
+		"FlagsName": "IO_FL_WDI",
+		"FlagsL": {
+			"cmd.FL.1": {
+				"Usage": 2,
+				"RawPos": 0,
+				"Name": "cmd.FL.1",
+				"Alias": "cmd.FL.1",
+				"Description": "FloodLights.1.command"
+			},
+			"cmd.FL.2": {
+				"Usage": 2,
+				"RawPos": 1,
+				"Name": "cmd.FL.2",
+				"Alias": "cmd.FL.2",
+				"Description": "FloodLights.2.command"
+			},
+			"cmd.WindCone": {
+				"Usage": 2,
+				"RawPos": 3,
+				"Name": "cmd.WindCone",
+				"Alias": "WC.cmd",
+				"Description": "WindCone.command"
+			},
+			"sts.FL.1.ON": {
+				"Usage": 1,
+				"RawPos": 0,
+				"Name": "sts.FL.1.ON",
+				"Alias": "sts.FL.1.ON",
+				"Description": "FloodLights.1.ON"
+			},
+			"sts.FL.2.ON": {
+				"Usage": 1,
+				"RawPos": 1,
+				"Name": "sts.FL.2.ON",
+				"Alias": "sts.FL.2.ON",
+				"Description": "FloodLights.2.ON"
+			},
+			"sts.WindCone.ON": {
+				"Usage": 1,
+				"RawPos": 4,
+				"Name": "sts.WindCone.ON",
+				"Alias": "sts.WC.ON",
+				"Description": "WindCone.ON"
+			}
+		}
+	},
+	"IO_BCN": {
+		"FlagsName": "IO_BCN",
+		"FlagsL": {
+			"BCN.cmd": {
+				"Usage": 2,
+				"RawPos": 0,
+				"Name": "BCN.cmd",
+				"Alias": "BCN.cmd",
+				"Description": "TWR BEACON.command"
+			},
+			"BCN.sts.LOC": {
+				"Usage": 1,
+				"RawPos": 1,
+				"Name": "BCN.sts.LOC",
+				"Alias": "BCN.LOC",
+				"Description": "TWR BEACON.MANUAL"
+			},
+			"BCN.sts.ON": {
+				"Usage": 1,
+				"RawPos": 0,
+				"Name": "BCN.sts.ON",
+				"Alias": "BCN.ON",
+				"Description": "TWR BEACON.ON"
+			},
+			"BCN.sts.FLT": {
+				"Usage": 4,
+				"RawPos": 2,
+				"Name": "BCN.sts.FLT",
+				"Alias": "BCN.FLT",
+				"Description": "TWR BEACON.FAULT"
+			}
+		}
+	}
+}
