@@ -1,18 +1,14 @@
 
 # {{config.extra.airport}} Documentation
 
-<!-- For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+INFINITE is a software that enables users to control airfield ground lighting. Airfield ground lighting (AGL) is a system of lights installed on the ground at an airport to provide visual guidance to pilots during takeoff, landing, and taxiing. The system consists of a number of specialized lights arranged in accordance with precise patterns.
 
-## Commands
+The software provides an interface for users to control the AGL system. It allows users to turn the lights on and off according to their needs, ensuring that the system is used efficiently and safely. The software also provides real-time information about the status of the AGL system, allowing users to monitor the system and make informed decisions.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Benefits
 
-## Project layout
+The benefits of using INFINITE software are numerous. The software provides an interface for users to control the airfield ground lighting (AGL) system, which is a system of lights installed on the ground at an airport to provide visual guidance to pilots during takeoff, landing, and taxiing.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files. -->
+The software allows users to turn the lights on and off according to their needs, ensuring that the system is used efficiently and safely. It also provides real-time information about the status of the AGL system, allowing users to monitor the system and make informed decisions.
+
+INFINITE is based on a distributed data management model and a strong web-based architecture platform. It will help prepare your airport for the future, enabling an interconnected, intelligent, and intuitive operation and management of airfield assets, on site or remotely.
