@@ -10,13 +10,13 @@ nav:
     - Modules: ./pages/modules.md
     - Devices: ./pages/devices.md
     - Installation: ./pages/installation-guide.md
-    - Credentials: ./pages/credentials.md
     - Configurations: ./pages/configurations.md
     - Versioning: ./pages/versioning.md
     - Operations: ./pages/operations.md
-    - Enhances: ./pages/enhances.md
     - Tests: ./pages/tests.md
-    - Naming Conventions: ./pages/naming-conventions.md
+    - Enhances: ./pages/enhances.md
+    # - Naming Conventions: ./pages/naming-conventions.md
+    # - Credentials: ./pages/credentials.md
 
 markdown_extensions:
   - attr_list
