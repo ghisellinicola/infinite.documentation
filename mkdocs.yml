@@ -4,19 +4,22 @@ site_url: https://hdk.documentation.io
 site_dir: public
 
 nav:
-    - Home: ./pages/index.md
-    - Map: ./pages/map.md
-    - Stations: ./pages/stations.md
-    - Modules: ./pages/modules.md
-    - Devices: ./pages/devices.md
-    - Installation: ./pages/installation-guide.md
-    - Configurations: ./pages/configurations.md
-    - Versioning: ./pages/versioning.md
-    - Operations: ./pages/operations.md
-    - Tests: ./pages/tests.md
-    - Enhances: ./pages/enhances.md
-    # - Naming Conventions: ./pages/naming-conventions.md
-    # - Credentials: ./pages/credentials.md
+  - Home: ./index.md
+  - Map: ./pages/map.md
+  - Stations: ./pages/stations.md
+  - Modules: ./pages/modules.md
+  - Devices: ./pages/devices.md
+  - Installation: ./pages/installation-guide.md
+      # try with venv and mkdocs-awesome-pages-plugin
+      # - Overview: ./pages/installation-details/installation-guide.md
+      # - Certificates: ./pages/installation-details/certificates-guide.md
+  - Configurations: ./pages/configurations.md
+  - Versioning: ./pages/versioning.md
+  - Operations: ./pages/operations.md
+  - Tests: ./pages/tests.md
+  - Enhances: ./pages/enhances.md
+  # - Naming Conventions: ./pages/naming-conventions.mdF
+  # - Credentials: ./pages/credentials.md
 
 markdown_extensions:
   - attr_list
@@ -27,21 +30,53 @@ markdown_extensions:
   #     clickable_checkbox: true
 
 plugins:
-    - search
-    - macros
+  - search
+  - macros # this is needed to use "extra" variables
+  # - awesome-pages
 
 # here we define global variables
 extra:
   version: 0.0.1
   airport: HDK
-  runways: ['1230']
-  headings: ['12','30']
-  stations: ['TWR','ELV']
+  runways: ["1230"]
+  headings: ["12", "30"]
+  stations: ["TWR", "ELV"]
   modules:
-    backends: ['TWR_BACKEND','ELV_BACKEND']
-    configurators: ['TWR_CONFIGURATOR','ELV_CONFIGURATOR']
-    loggers: ['TWR_LOGGER','ELV_LOGGER']
-    bridges: ['BRIDGE_M','BRIDGE_S']
-    gateways: ['FGW_M','FGW_S']
+    backends: ["TWR_BACKEND", "ELV_BACKEND"]
+    configurators: ["TWR_CONFIGURATOR", "ELV_CONFIGURATOR"]
+    loggers: ["TWR_LOGGER", "ELV_LOGGER"]
+    bridges: ["BRIDGE_M", "BRIDGE_S"]
+    gateways: ["FGW_M", "FGW_S"]
 
-theme: readthedocs
+# theme: readthedocs
+theme:
+  name: readthedocs
+
+  # 404 page
+  # static_templates:
+  #   - 404.html
+
+  # Necessary for search to work properly
+  # include_search_page: false
+  # search_index_only: true
+
+  # # Default values, taken from mkdocs_theme.yml
+  # language: en
+  # font:
+  #   text: Noto Sans
+  #   code: Source Code Pro
+  # favicon: assets/favicon.png
+  # logo: assets/logo/logo.svg
+  # palette:
+  #   - scheme: default
+  #     primary: white
+  #     accent: pink
+  # features:
+  #   - navigation.indexes
+  #   - navigation.tabs
+  #   - navigation.tracking
+  #   - content.code.annotate
+  #   - navigation.top
+  #   - search.suggest
+  #   - search.highlight
+  #   - search.share
