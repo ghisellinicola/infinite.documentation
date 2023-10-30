@@ -1,0 +1,1 @@
+Powershell C:\Users\uadm\Desktop\AGL\Start-Infinite-Script.ps1 >> Infinite-Startup-Script.log

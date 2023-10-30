@@ -132,6 +132,19 @@ Within notepad ++ open and edit the **C:\System32\driver\etc\host** or **C:\Syst
 	
 	![AutoStartDelay.jpg](../../../../assets/services/regedit/AutoStartDelay.jpg){ width="1000" }  <figcaption>AutoStartDelay regedit entry</figcaption>
 
+	* since we are experiencing problems with DDS environment variables, a new approach has been implemented:
+		- (optional) add nssm home folder to Path
+		- Get-ExecutionPolicy -> Set-ExecutionPolicy RemoteSigned
+		- Start-Infinite-Script.ps1 to start all services (correctly managing environment variables)
+
+		[Start-Infinite-Script.ps1](../assets/services/scripts//Start-Infinite-Script.ps1)<!-- {:download} --> 
+
+		- Start-Infinite-Script.cmd to run Start-Infinite-Script.ps1 at startup (a link of this file must be added at the Windows Startup Folder)
+
+		[Start-Infinite-Script.cmd](../assets/services/scripts//Start-Infinite-Script.cmd)<!-- {:download} --> 
+
+		- ServiceSecurityEditor.exe to allow normal powershell to manage services startup
+
 
 * **Disable hot keys** 
 
